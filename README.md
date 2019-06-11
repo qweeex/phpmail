@@ -16,7 +16,7 @@
     <form action="#" class="ajax-form">
        <input name="name" type="text" placeholder="Ваше имя">
        <input name="phone" type="tel"  placeholder="Ваш телефон">
-       <button class="btn offer__btn modal__btn" type="submit">Отправить</button>
+       <button type="submit">Отправить</button>
     </form>
 # Настройка файла small.php (это тот файл который все и отправляет)
 
